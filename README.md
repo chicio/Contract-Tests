@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/chicio/Contract-Tests.svg?branch=master)](https://travis-ci.org/chicio/Contract-Tests)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/chicio/Contract-Tests/master/LICENSE.md)
 
-An example java project created for my blog post ["A first approach to contract test"](https://www.fabrizioduroni.it/2017/07/25/a-first-approach-to-contract-test.html "A first approach to contract test").
+An example java project created for my blog post ["A first approach to contract test"](https://www.fabrizioduroni.it/2017/07/25/a-first-approach-to-contract-test/ "A first approach to contract test").
 
 ### Description
 
